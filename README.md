@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repository](https://your-solution-url.com)
-- Live Site URL: [Frontend Mentor | Ping coming soon page](https://your-live-site-url.com)
+- Solution URL: [Github Repository](https://github.com/simokitkat/Ping-single-column-coming-soon-page)
+- Live Site URL: [Frontend Mentor | Ping coming soon page](https://simokitkat.github.io/Ping-single-column-coming-soon-page)
 
 ## My process
 
